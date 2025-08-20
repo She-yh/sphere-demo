@@ -8,6 +8,7 @@
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@react-three/drei": "^10.7.3",
     "@react-three/fiber": "^9.3.0",
+    "@react-three/postprocessing": "^3.0.4",
     "@svgr/webpack": "^5.5.0",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",

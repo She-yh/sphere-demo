@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+.title-container {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
